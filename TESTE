@@ -1,7 +1,10 @@
 <?php
 //primeiro arquivo php alterado
+<<<<<<< HEAD
 echo "Alo mundo 456";
 
 echo "Mudanças feitas local";
+
+echo "Mudei essa linha";
 
 ?>
