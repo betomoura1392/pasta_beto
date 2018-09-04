@@ -1,5 +1,5 @@
 <?php
-//primeiro arquivo php
+//primeiro arquivo php alterado
 echo "Alo mundo";
 
 ?>
